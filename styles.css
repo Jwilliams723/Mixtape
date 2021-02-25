@@ -1,0 +1,60 @@
+body{
+  background-color: royalblue;
+  font-family: helvetica, arial, sans-serif;
+  color: White
+}
+img{
+border: lightpink 2px solid;
+background: white;
+margin: 1%;
+padding: 2%;
+}
+
+h1{
+  text-align:center;
+
+
+}
+
+h2{
+  text-align: center;
+
+}
+
+ol{
+  padding: 2%
+  margin: auto;
+  width: 80%;
+}
+a{
+   color: crimson;
+   text-decoration: none;
+
+}
+
+li{
+
+  padding: 5px;
+  width: 90%;
+  margin: auto;
+}
+
+h3{
+  color:deeppink;
+}
+#one{
+  font-size:2em;
+  color:purple;
+}
+
+
+
+.cover{
+  background: url("Luv_Is_Rage_Two_cover.jpg")
+  height: 500px;
+  background-position: center;
+  background-color: none;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+  /* https://upload.wikimedia.org/wikipedia/en/6/65/Luv_Is_Rage_2_cover.jpg */
